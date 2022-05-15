@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lt0WQ8yDKotclhYijxZGbA58FfSxXQ0Zr5wr8You3L0FkgrqAlC+5drP3ae+nVSisZiqPLRwd1i1rPTlaDmiFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krstn\\.vscode\\cse210\\cse210-02\\cse210-02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krstn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
